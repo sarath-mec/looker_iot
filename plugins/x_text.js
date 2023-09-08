@@ -31,9 +31,11 @@ looker.plugins.visualizations.add({
           text-align: center;
         }
         .text-large {
+		  font-family: Roboto,
           font-size: 24px;
         }
         .text-small {
+		  font-family: Roboto,
           font-size: 10px;
         }
       </style>
