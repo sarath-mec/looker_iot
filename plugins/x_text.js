@@ -29,13 +29,12 @@ looker.plugins.visualizations.add({
           flex-direction: column;
           justify-content: center;
           text-align: center;
+          font-family: Roboto;
         }
         .text-large {
-		  font-family: Roboto,
           font-size: 24px;
         }
         .text-small {
-		  font-family: Roboto,
           font-size: 10px;
         }
       </style>
