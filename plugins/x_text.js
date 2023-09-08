@@ -28,6 +28,7 @@ looker.plugins.visualizations.add({
           display: flex;
           flex-direction: column;
           justify-content: center;
+		  align-items: flex-end;
           text-align: center;
           font-family: Roboto;
         }
